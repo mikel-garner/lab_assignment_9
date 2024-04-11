@@ -1,4 +1,4 @@
-
+//Author: Mikel Garner
 #include <stdio.h>
 #include <stdlib.h>
 
